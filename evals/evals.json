@@ -1,0 +1,11 @@
+{
+  "skill_name": "greenfield-architecture-planner",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Plan the architecture for a new customer-support dashboard. Product spec and AC are available. We prefer Angular and Spring Boot but want a lean MVP.",
+      "expected_output": "Produces a right-sized architecture plan with stack rationale, boundaries, data model, API outline, validation strategy, and task-planning handoff.",
+      "files": []
+    }
+  ]
+}
