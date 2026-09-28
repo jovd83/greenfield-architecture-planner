@@ -1,7 +1,7 @@
 # Greenfield Architecture Planner
 
 [![Validate Skill](https://github.com/jovd83/greenfield-architecture-planner/actions/workflows/validate.yml/badge.svg)](https://github.com/jovd83/greenfield-architecture-planner/actions/workflows/validate.yml)
-[![version](https://img.shields.io/badge/version-1.0.0-blue)](CHANGELOG.md)
+[![version](https://img.shields.io/badge/version-1.1.0-blue)](CHANGELOG.md)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-SKILL.md-0a7ea4)](SKILL.md)
 [![status](https://img.shields.io/badge/status-active-2ea44f)](SKILL.md)
 [![category](https://img.shields.io/badge/category-architecture-0a7ea4)](SKILL.md)

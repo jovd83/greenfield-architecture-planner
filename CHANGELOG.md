@@ -2,6 +2,13 @@
 
 All notable changes to this AgentSkill are documented here.
 
+## 1.1.0 - 2026-09-28
+
+### Changed
+
+- Invoke-only: `disable-model-invocation: true` for Claude Code and `allow_implicit_invocation: false` in `agents/openai.yaml` for Codex. The skill is phase 7 of `project-genesis-chain`, which the `project-genesis` agent runs; it no longer competes for automatic selection. Run it with `/greenfield-architecture-planner` or `$greenfield-architecture-planner`.
+- `metadata` carries author and version.
+
 ## 1.0.0 - 2026-05-25
 
 ### Changed

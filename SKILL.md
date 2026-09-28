@@ -13,6 +13,9 @@ metadata:
   dispatcher-input-artifacts: spec, ac, context, constraints, stack
   dispatcher-output-artifacts: architecture_plan, adr_log, validation_plan, handoff
   dispatcher-stack-tags: architecture, greenfield, api, deployment
+  author: jovd83
+  version: "1.1.0"
+disable-model-invocation: true
 ---
 
 # Greenfield Architecture Planner
