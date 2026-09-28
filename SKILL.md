@@ -165,7 +165,7 @@ For saved artifacts, prefer the reusable templates in `templates/architecture-pl
 
 - Runtime memory is the working context for the current conversation: assumptions, trade-offs, and draft decisions. Do not treat it as durable.
 - Project or skill-local persistent memory should be explicit artifacts such as an architecture plan, ADR log, context brief, or validation plan saved in the user's repository when requested.
-- Shared memory is out of scope for this skill. If the user wants reusable cross-agent architecture principles or organization-wide standards captured, hand off to an installed shared-memory skill or external knowledge-management workflow.
+- Shared memory is out of scope for this skill. If the user wants reusable cross-agent architecture principles or organization-wide standards captured, hand off to the agent's own memory (for example CLAUDE.md or AGENTS.md) or an external knowledge-management workflow.
 - Do not automatically promote runtime notes into project files, and do not promote project-specific decisions into shared memory without explicit user direction.
 
 ## File Output Rules
