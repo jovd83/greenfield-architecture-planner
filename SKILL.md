@@ -20,7 +20,7 @@ disable-model-invocation: true
 
 # Greenfield Architecture Planner
 
-> Version: 1.0.0 | Status: active | License: MIT
+> Version: 1.1.0 | Status: active | License: MIT
 
 Plan a right-sized architecture for a new software product before repository bootstrap or implementation. The output should help a team make confident initial technical decisions and give a downstream implementation planner enough structure to create executable work.
 
